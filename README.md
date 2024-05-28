@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm
-Tomas del RIo</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="www.linkedin.com/in/tomás-del-rio/" target="blank">
+Tomas del Rio</a></h1>
 <h3 align="center">A passionate Back-end developer with one year of experience. 🚀🌐</h3>
 
 ## <p>About me</p> 
