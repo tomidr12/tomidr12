@@ -17,6 +17,6 @@ Tomas del Rio</a></h1>
 ## <p>Skills</p> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,py,bash,mysql,docker,dotnet,git,kubernetes,linux,mongodb,github,django,js,nextjs,nodejs,react,ts,kali,arduino,aws,html,azure,npm,obsidian,"/>
+    <img src="https://skillicons.dev/icons?i=cs,cpp,py,bash,mysql,docker,dotnet,git,linux,github,obsidian"/>
   </a>
 </p>
